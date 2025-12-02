@@ -13,17 +13,22 @@
 
 ### 2. 개발 환경 및 도구
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil-394049?style=flat-square&logo=arm&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 - **MCU : STM32F411RE**
 - **입력장치 : 조이스틱, 물 수위센서**
 - **출력장치 : 서보모터, LCD**
 - **개발방식 : 타이머를 활용한 서보모터 속도 조절, ADC WatchDog를 활용한 물 수위센서의 값에 따라 서보모터 속도 조절**
 
-<img width="1000" height="537" alt="Image" src="https://github.com/user-attachments/assets/20463200-55aa-45bb-934e-1558eb010afa" />
+<img width="1212" height="657" alt="Image" src="https://github.com/user-attachments/assets/acc19cb5-2e5b-470c-b880-16da7cb9551b" />
 
+<img width="1217" height="673" alt="Image" src="https://github.com/user-attachments/assets/b2e7e9ee-18c9-4783-9077-6f2f27ee5f6e" />
+
+<img width="1213" height="656" alt="Image" src="https://github.com/user-attachments/assets/b044d4c9-6d67-4885-a17a-ffdaaa6a9662" />
 ----------------------------------------------------------------------------------------
 
 ### 3. 주요 기능
