@@ -1,5 +1,5 @@
 # Project-SmartHome
-## STM32와 아두이노 키트의 부품들을 활용한 스마트홈 구현
+## STM32와 아두이노를 활용한 스마트홈 구현
 ----------------------------------------------------------------------------------------
 
 ### 1. 프로젝트 개요
@@ -19,8 +19,9 @@
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-- **MCU : STM32F411RE**
-- **입력장치 : 조이스틱, 물 수위센서**
+- **MCU : STM32F411RE, Aduino UNO**
+- **입력장치 : 온습도센서, 애플리케이션**
+> **온습도센서 : 현재 온도와 습도를 측정**
 - **출력장치 : 서보모터, LCD**
 - **개발방식 : 타이머를 활용한 서보모터 속도 조절, ADC WatchDog를 활용한 물 수위센서의 값에 따라 서보모터 속도 조절**
 
