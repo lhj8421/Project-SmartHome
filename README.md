@@ -27,7 +27,7 @@
 <img width="1212" height="657" alt="Image" src="https://github.com/user-attachments/assets/acc19cb5-2e5b-470c-b880-16da7cb9551b" />
 
 <img width="1217" height="673" alt="Image" src="https://github.com/user-attachments/assets/b2e7e9ee-18c9-4783-9077-6f2f27ee5f6e" />
-<img width="1213" height="656" alt="Image" src="https://github.com/user-attachments/assets/b044d4c9-6d67-4885-a17a-ffdaaa6a9662" />
+
 ----------------------------------------------------------------------------------------
 
 ### 3. 주요 기능
@@ -40,6 +40,8 @@
 ----------------------------------------------------------------------------------------
 
 ### 3-1. AI 습도 예측 모델
+
+<img width="1213" height="656" alt="Image" src="https://github.com/user-attachments/assets/b044d4c9-6d67-4885-a17a-ffdaaa6a9662" />
 
 **데이터셋**
 - 출처 : 기상청 ASOS 시간별 데이터
